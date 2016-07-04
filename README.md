@@ -1,2 +1,2 @@
-# aggregator
-Ukrainian goverment, social and other services Open Data APIs aggregator
+# Open Data APIs Aggregator
+Ukrainian goverment, social and other services Open Data APIs aggregator.
