@@ -1,0 +1,31 @@
+{
+    "name": "OpenDataAPI/aggregator-dev",
+    "description": "Ukrainian government, social and other services Open Data APIs aggregator.",
+    "type": "library",
+    "keywords": ["OpenData", "API", "aggregator", "php", "framework"],
+    "homepage": "https://github.com/OpenDataAPI/aggregator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmytro Zarezenko",
+            "email": "dmytro.zarezenko@gmail.com",
+            "homepage": "https://github.com/dzarezenko",
+            "role": "Founder and Developer"
+        }
+    ],
+    "support": {
+        "email": "dmytro.zarezenko@gmail.com"
+    },
+    "minimum-stability": "dev",
+    "replace": {
+        "OpenDataAPI/aggregator": "self.version"
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "OpenDataAPI\\aggregator\\": "src/"
+        }
+    }
+}
