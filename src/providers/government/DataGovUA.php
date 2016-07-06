@@ -10,7 +10,7 @@ use OpenDataAPI\aggregator\constants\DataFormat;
  * Приклади використання у папці /examples/government.
  *
  * http://data.gov.ua/ API wrapper.
- * Usage in the examples/government folder.
+ * Usage in the /examples/government folder.
  *
  * @category Open Data APIs Aggregator
  * @author Dmytro Zarezenko <dmytro.zarezenko@gmail.com>
