@@ -1,5 +1,5 @@
 {
-    "name": "OpenDataAPI/aggregator-dev",
+    "name": "open-data-api/aggregator",
     "description": "Ukrainian government, social and other services Open Data APIs aggregator.",
     "type": "library",
     "keywords": ["OpenData", "API", "aggregator", "php", "framework"],
@@ -18,7 +18,7 @@
     },
     "minimum-stability": "dev",
     "replace": {
-        "OpenDataAPI/aggregator": "self.version"
+        "open-data-api/aggregator": "self.version"
     },
     "require": {
         "php": ">=5.4.0"
