@@ -1,6 +1,8 @@
 # Open Data APIs Aggregator
 Ukrainian government, social and other services Open Data APIs aggregator.
 
+[![Code Climate](https://codeclimate.com/github/OpenDataAPI/aggregator/badges/gpa.svg)](https://codeclimate.com/github/OpenDataAPI/aggregator)
+
 Requirements
 ------------
 The minimum requirement by Open Data APIs Aggregator is that your Web server supports PHP 5.4.
