@@ -1,6 +1,8 @@
 # Open Data APIs Aggregator
 Ukrainian government, social and other services Open Data APIs aggregator.
 
+[![Total Downloads](https://poser.pugx.org/open-data-api/aggregator/downloads)](https://packagist.org/packages/open-data-api/aggregator)
+[![License](https://poser.pugx.org/open-data-api/aggregator/license)](https://packagist.org/packages/open-data-api/aggregator)
 [![Code Climate](https://codeclimate.com/github/OpenDataAPI/aggregator/badges/gpa.svg)](https://codeclimate.com/github/OpenDataAPI/aggregator)
 
 Requirements
